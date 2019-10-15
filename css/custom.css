@@ -1,0 +1,41 @@
+header{
+    background:linear-gradient( rgba(0, 0, 0, 0.4) 100%, rgba(0, 0, 0, 0.4)100%),url('../img/header.jpg') center center no-repeat;
+    position: relative;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header svg {
+    position: absolute;
+    fill: white !important;
+    bottom: 0;
+}
+
+header .header-content h1 {
+    color: #fff;
+}
+
+header .header-content p {
+    color: #fff;
+}
+
+header .header-content p a {
+    color: #fff;
+    border-color: #fff;
+}
+
+header .header-content a.btn {
+    border: 1px solid #ffffff;
+}
+
+header .header-content .btn span {
+    color: #fff;
+}
+
+header .navbar-default .navbar-nav li a {
+    color: #fefefe;
+}
+
+header .nav-sticy .navbar-nav li a {
+    color: #333;
+}
